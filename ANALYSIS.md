@@ -1,8 +1,8 @@
-# Tiny Sales Analysis
+# Sales Analysis
 
 ## Project goal
 
-This beginner-friendly R project examines sales for five products. It shows how to import a CSV file, create a new variable, calculate summary statistics, and make a basic chart.
+This project examines sales for five products. It shows how to import a CSV file, create a new variable, calculate summary statistics, and make a basic chart.
 
 ## Method
 
