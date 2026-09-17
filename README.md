@@ -1,6 +1,6 @@
 # Sales Project
 
-A very small beginner R project that analyzes product sales and creates a bar chart.
+R project that analyzes product sales and creates a bar chart.
 
 ## Files
 
