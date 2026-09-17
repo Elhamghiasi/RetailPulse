@@ -12,7 +12,7 @@ R project that analyzes product sales and creates a bar chart.
 
 ## How to run
 
-1. Open the `tiny_r_sales_project` folder as an RStudio project or set it as your working directory.
+1. Open the `tiny_r_sales_project` folder as an RStudio project
 2. Open `analysis.R`.
 3. Click **Source**, or run:
 
